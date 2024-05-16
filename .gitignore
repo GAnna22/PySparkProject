@@ -1,0 +1,4 @@
+data/
+lr_model/
+venv/
+.DS_Store

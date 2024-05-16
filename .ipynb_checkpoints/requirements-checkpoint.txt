@@ -1,0 +1,6 @@
+pyspark==3.5.0
+matplotlib
+confluent-kafka
+tensorflow
+pandas
+numpy
